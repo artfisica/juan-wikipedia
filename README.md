@@ -20,12 +20,7 @@ Currently  married to [[Heber Gomez Malave]] (2013-present)
 
 '''Juan Pablo Peña-Rosas''' (he, his, him) born November 20, 1964, is a Venezuelan medical doctor, epidemiologist and international civil servant, who has served as an expert of nutrition for health and development<ref>{{cite web |last1=WHO |first1=Coordinator, Evidence and Programme Guidance (EPG) |title= Coordinator, Evidence and Programme Guidance (EPG) and WHO |url=https://www.who.int/nutrition/about_us/penarosas/en/}}</ref> at the [[World Health Organization]] (WHO) since 2008.
 He currently lives in [[Geneva, Switzerland]]. He has been recognised for his work in evidence-informed procedures for guideline development in nutrition in global health<ref>{{cite web |last1=Award CDC Birth Defects Surveillance Toolkit |first1=Trends in Wheat-Flour Fortification with Folic Acid and Iron |title= CDC Recognition |url=https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5701a4.htm}}</ref><ref>{{cite web |last1=Medical book in the category of public health 2015 |first1=BMA |title= BMA highly commended medical book in the category of public health 2015 |url= https://www.bma.org.uk/bma-library/medical-book-awards}}</ref>.
-He has led the commissioning and preparation of systematic reviews of nutrition interventions for health and development<ref>{{cite web |last1=Award CDC Birth Defects Surveillance Toolkit |first1=Trends in Wheat-Flour Fortification with Folic Acid and Iron |title= CDC Recognition |url=https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5701a4.htm}}</ref>
-
-
-https://www.who.int/nutrition/publications/micronutrients/micronutrients_2010_2011_report.pdf?ua=1
-
- and implemented innovative methods such as qualitative reviews, mathematical modelling, overviews of reviews and diagnostic tests accuracy reviews[Ref-4]. He has led to the publication of more than 60 WHO evidence-based guidelines in nutrition-related topics[Ref-5] and contributed to building the evidence base of many nutrition interventions.
+He has led the commissioning and preparation of systematic reviews of nutrition interventions for health and development<ref>{{cite web |last1=Department of Nutrition for Health and Development |first1=MICRONUTRIENTS2010 - 2011 |title=MICRONUTRIENTS|url=https://www.who.int/nutrition/publications/micronutrients/micronutrients_2010_2011_report.pdf}}</ref> and implemented innovative methods such as qualitative reviews, mathematical modelling, overviews of reviews and diagnostic tests accuracy reviews[Ref-4]. He has led to the publication of more than 60 WHO evidence-based guidelines in nutrition-related topics[Ref-5] and contributed to building the evidence base of many nutrition interventions.
 
 
 
